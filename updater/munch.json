@@ -1,0 +1,14 @@
+{
+    "response": [
+    {
+     "datetime": "1631590804",
+     "filename": "CatalystOS.zip",
+     "id": "0c6199d68da10f4e28c8833e6361470b",
+     "romtype":"nightly",
+     "size": 1101771150,
+     "url": "https://master.dl.sourceforge.net/project/catalystproject/munch/CatalystOS.zip",
+     "updater": true,
+     "version": "5.2"
+    }
+    ]
+}  
