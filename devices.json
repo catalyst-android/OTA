@@ -1,0 +1,24 @@
+[
+    {
+      "brand": "Xiaomi",
+      "name": "Pocophone F1",
+      "codename": "munch",
+      "maintainer_name": "Umang96",
+      "maintainer_xda": "null",
+      "maintainer_country": "IND",
+      "xda_thread": "",
+      "active": false,
+      "donation_link":"null"
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Pocophone X3 PRO",
+      "codename": "vayu/bhima",
+      "maintainer_name": "LordShenron",
+      "maintainer_xda": "null",
+      "maintainer_country": "IND",
+      "xda_thread": "null",
+      "active": false,
+      "donation_link":"https://ko-fi.com/lordshen"
+    }
+  ]
