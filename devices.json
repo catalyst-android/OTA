@@ -1,14 +1,14 @@
 [
     {
       "brand": "Xiaomi",
-      "name": "Pocophone F1",
+      "name": "POCO F4 / Redmi K40s",
       "codename": "munch",
       "maintainer_name": "Umang96",
-      "maintainer_xda": "null",
+      "maintainer_xda": "https://forum.xda-developers.com/m/umang96.4279499",
       "maintainer_country": "IND",
       "xda_thread": "",
       "active": true,
-      "donation_link":"null"
+      "donation_link":"http://paypal.me/umang96"
     },
     {
       "brand": "Xiaomi",
