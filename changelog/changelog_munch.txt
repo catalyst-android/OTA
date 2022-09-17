@@ -1,10 +1,18 @@
-Highlights & Device Specific Changes:
-Build type: Monthly
+Build Information -
+
+Build type: Weekly
 Device: POCO F4 / Redmi K40s (munch)
 Device maintainer: Umang96
 Android Version: 13
 
+Changelog -
 
-Initial Official Build
-OTA Supported
-GAPPS Included
+- Fix safetynet profile mismatch issue
+- New Feature: schedule airplane mode to save battery
+- Force landscape rr: use higher refresh when in pip mode
+- Fix empty spaces near signal icons in qs panel
+- Add qs tile to monitor cpu temp and frequency
+- Increase fingerprint fail attempts before lockdown
+- One click to add/remove qs tiles for better ux
+- Add delete button in screenshot options
+- Some general performance improvements
