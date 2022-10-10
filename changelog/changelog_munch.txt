@@ -7,12 +7,9 @@ Android Version: 13
 
 Changelog -
 
-- support for pitch black dark theme due to popular demand
-- kill 90hz refresh rate since it's badly calibrated
-- adjust dynamic refresh rate switching for less flicker
-- auto brightness improvements: dim slowly, brighten quickly
-- toggleable statusbar icons added like NFC, VoLTE, VoWiFi
-- added lockscreen charging info with toggle to turn on/off
-- screenrecording has more options and improvements
-- improve the 'more battery' perf slider profile
-- fix gpay not able to add cards
+- merge aosp_r8 sources with October security patch
+- option to stop content based refresh rate to reduce flicker
+- add smart pixels and quick unlock features
+- fix occasional fingerprint unlock animation lag
+- fix slow charging issue on lowest performance slider
+- upstream tree sources from madmax
