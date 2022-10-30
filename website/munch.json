@@ -1,11 +1,11 @@
 {
     "response": [
         {
-            "datetime": "1665322003",
-            "filename": "CatalystOS-1.1-OFFICIAL-20221009-GAPPS.zip",
-            "id": "c8f072fd98c30f1e90824d4aa387004e",
+            "datetime": "1667136506",
+            "filename": "CatalystOS-1.1-OFFICIAL-20221030-GAPPS.zip",
+            "id": "57a54f3a2fd45388a72a876d336c5eb6",
             "romtype": "stable",
-            "size": 1493017517,
+            "size": 1493132181,
             "url": "https://sourceforge.net/projects/catalystproject/files/munch/",
             "updater": true,
             "version": "1.1"

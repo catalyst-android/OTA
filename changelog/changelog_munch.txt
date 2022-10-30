@@ -7,9 +7,8 @@ Android Version: 13
 
 Changelog -
 
-- merge aosp_r8 sources with October security patch
-- option to stop content based refresh rate to reduce flicker
-- add smart pixels and quick unlock features
-- fix occasional fingerprint unlock animation lag
-- fix slow charging issue on lowest performance slider
-- upstream tree sources from madmax
+- add some more features in launcher like icon pack support
+- add support for auto HBM mode with configurable threshold
+- add support for limiting heads up notifications
+- show 4G instead of LTE to save some space
+- upstream from aosp, arrow, madmax
