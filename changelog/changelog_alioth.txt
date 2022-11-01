@@ -1,0 +1,11 @@
+
+Build Information -
+
+Build type: Weekly
+Device: POCO F3 / Mix 11x / Redmi K40 (alioth/aliothin)
+Device maintainer: Eidoron1
+Android Version: 13
+
+Changelogs:
+
+-Initial official build
