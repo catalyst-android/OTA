@@ -20,5 +20,16 @@
       "xda_thread": "null",
       "active": true,
       "donation_link":"https://ko-fi.com/lordshen"
+    },
+  {
+      "brand": "Xiaomi",
+      "name": "POCO F3 / Mi 11x / Redmi K40",
+      "codename": "alioth/aliothin",
+      "maintainer_name": "Eidoron1",
+      "maintainer_xda": "https://forum.xda-developers.com/m/eidoron1.11939237/",
+      "maintainer_country": "NEP",
+      "xda_thread": "",
+      "active": true,
+      "donation_link":"null"
     }
   ]
