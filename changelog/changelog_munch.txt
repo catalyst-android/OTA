@@ -7,8 +7,6 @@ Android Version: 13
 
 Changelog -
 
-- add some more features in launcher like icon pack support
-- add support for auto HBM mode with configurable threshold
-- add support for limiting heads up notifications
-- show 4G instead of LTE to save some space
-- upstream from aosp, arrow, madmax
+- Minor stability improvements to auto HBM
+- Upstreams from Madmax's trees
+- Upstreams from aosp, arrow

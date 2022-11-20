@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": "1667136506",
-            "filename": "CatalystOS-1.1-OFFICIAL-20221030-GAPPS.zip",
-            "id": "57a54f3a2fd45388a72a876d336c5eb6",
+            "datetime": "1668862287",
+            "filename": "CatalystOS-1.1-OFFICIAL-20221119-GAPPS.zip",
+            "id": "6aa6950f26cbb0dc07b05384eaf8de31",
             "romtype": "stable",
-            "size": 1493132181,
-            "url": "https://github.com/catalyst-android/OTA/releases/download/v30.10.2022_munch/CatalystOS-1.1-OFFICIAL-20221030-GAPPS.zip",
+            "size": 1493372024,
+            "url": "https://github.com/catalyst-android/OTA/releases/download/v20.11.2022_munch/CatalystOS-1.1-OFFICIAL-20221119-GAPPS.zip",
             "updater": true,
             "version": "1.1"
         }
