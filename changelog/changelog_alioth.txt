@@ -8,4 +8,12 @@ Android Version: 13
 
 Changelogs:
 
--Initial official build
+-Update dolby configs
+-Decrease launch boost to 3 sec
+-Address some sepolicy denials
+-Updated power profiles
+-Enable display async powermode
+-Switch to stock graphics stack
+-Update blobs from MIUI V13.0.5.0.SKHMIXM 
+-Switch to AOSP wifi supplicant
+-Updated rounded corners from AOSPA

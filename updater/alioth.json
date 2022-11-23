@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": "1667305778",
-            "filename": "CatalystOS-1.1-OFFICIAL-20221101-GAPPS.zip",
-            "id": "6bd6fb2a594d9539c7765e34c8b3e737",
+            "datetime": "1669204213",
+            "filename": "CatalystOS-1.1-OFFICIAL-20221123-GAPPS.zip",
+            "id": "f6dac00b40fe3c762365bd9f8f260d1f",
             "romtype": "stable",
-            "size": 1436730882,
-            "url": "https://sourceforge.net/projects/catalystproject/files/alioth/CatalystOS-1.1-OFFICIAL-20221101-GAPPS.zip/download",
+            "size": 1431111474,
+            "url": "https://cytranet.dl.sourceforge.net/project/catalystproject/alioth/CatalystOS-1.1-OFFICIAL-20221123-GAPPS.zip",
             "updater": true,
             "version": "1.1"
         }
