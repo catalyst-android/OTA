@@ -2,11 +2,11 @@ Build Information -
 
 Build type: Weekly
 Device: POCO F4 / Redmi K40s (munch)
-Device maintainer: Umang96
+Device maintainer: LordShenron
 Android Version: 13
 
 Changelog -
 
-- Minor stability improvements to auto HBM
-- Upstreams from Madmax's trees
-- Upstreams from aosp, arrow
+- Merge January security patch
+- Add a ton of useful features
+- Fixes and upstreams
