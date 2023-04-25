@@ -7,6 +7,5 @@ Android Version: 13
 
 Changelog -
 
-- Merge January security patch
-- Add a ton of useful features
+- Added MIUI camera as default camera
 - Fixes and upstreams
